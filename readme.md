@@ -22,7 +22,7 @@
 
 项目截图：
 
-<img src="http://pic1.win4000.com/wallpaper/2018-07-19/5b506f05e755f.jpg" style="zoom: 25%;" />
+<img src="https://github.com/nongfusanquan/ReactNative_jinrongzixun/blob/master/images/jinrongzixun.png" style="zoom: 25%;" />
 
 项目下载：
 
