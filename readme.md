@@ -1,10 +1,14 @@
 ## 工程介绍 
 
-该项目是有ReactNative开发的，主要是为了练习一下React,ReactNative,Es6语法等等
+该项目是有ReactNative开发的，主要是为了练习一下React,ReactNative项目搭建,Es6语法，flex布局，css语法，js语法，fetch请求网络数据等等。
+
+主要实现了路由的跳转，路由跳转传参，fetch请求网络接口，json数据绑定，箭头函数,第三库的使用，项目还有好多功能和知识点没有涉及，以后再慢慢补充
+
+本人是做Android开发的，闲暇时候学习前端技术，扩充自己前端的知识，
 
 接口有的是用的自己抓取的
 
-还有干货集中营 ：http://gank.io/api
+还有干货集中营的API ：http://gank.io/api
 
 ## 用到的第三库库有：
 
@@ -18,7 +22,7 @@
 
 项目截图：
 
-![]( http://uploads.5068.com/allimg/1801/82-1P120114935.jpg )
+<img src="http://pic1.win4000.com/wallpaper/2018-07-19/5b506f05e755f.jpg" style="zoom: 25%;" />
 
 项目下载：
 
