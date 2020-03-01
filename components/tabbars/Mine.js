@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import {View, Text, StyleSheet, Image, TouchableHighlight, ScrollView} from 'react-native';
 import ImagePicker from 'react-native-image-picker';
 import Toast, {DURATION} from 'react-native-easy-toast'
+import {Actions} from 'react-native-router-flux';
 
 export default class Home extends Component {
     constructor(props) {
@@ -88,7 +89,7 @@ export default class Home extends Component {
                         <Text style={{fontSize: 16, marginTop: 5, marginLeft: 10}}>在线客服</Text>
                     </View>
                 </TouchableHighlight>
-                <TouchableHighlight>
+                <TouchableHighlight onPress={()=>{Actions.Suggest()}}>
                     <View style={styles.item1}>
                         <Image style={{height: 25, width: 25}} source={require('../../images/my_help_icon.png')}></Image>
                         <Text style={{fontSize: 16, marginTop: 5, marginLeft: 10}}>意见反馈</Text>
