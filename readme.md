@@ -26,7 +26,7 @@
 
 ## apk下载：
 
-<img src="https://github.com/nongfusanquan/ReactNative_jinrongzixun/blob/master/images/erweima.png" style="zoom: 25%;" />
+<img src="https://github.com/nongfusanquan/ReactNative_jinrongzixun/blob/master/images/erweima.png" style="zoom: 10%;" />
 
 https://raw.githubusercontent.com/nongfusanquan/ReactNative_jinrongzixun/master/jrzx.apk
 
